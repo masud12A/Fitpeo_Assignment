@@ -1,0 +1,8 @@
+testCases\TC_001_HomePage_Test.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+pageObjects\RevenueCalculatorPageObject.class
+testBase\BaseClass.class
+testCases\TC_002_SliderTest.class
+utilities\ScreenRecorderUtil.class
+pageObjects\HomePageObject.class
